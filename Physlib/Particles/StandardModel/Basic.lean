@@ -5,9 +5,11 @@ Authors: Nikolai Kashcheev, Joseph Tooby-Smith
 -/
 module
 
+public import Physlib.Mathematics.Geometry.SpecialUnitary
 public import Physlib.SpaceAndTime.SpaceTime.Basic
 public import Physlib.Meta.Linters.Sorry
 public import Mathlib.RingTheory.RootsOfUnity.Complex
+public import Mathlib.Topology.Instances.Complex
 /-!
 # The Standard Model
 

@@ -76,6 +76,8 @@ public import Physlib.Mathematics.Distribution.PowMul
 public import Physlib.Mathematics.FDerivCurry
 public import Physlib.Mathematics.Fin
 public import Physlib.Mathematics.Fin.Involutions
+public import Physlib.Mathematics.Geometry.SpecialUnitary
+public import Physlib.Mathematics.Geometry.Unitary
 public import Physlib.Mathematics.Geometry.Metric.PseudoRiemannian.Defs
 public import Physlib.Mathematics.Geometry.Metric.Riemannian.Defs
 public import Physlib.Mathematics.InnerProductSpace.Adjoint
@@ -156,6 +158,7 @@ public import Physlib.Particles.StandardModel.Basic
 public import Physlib.Particles.StandardModel.HiggsBoson.Basic
 public import Physlib.Particles.StandardModel.HiggsBoson.Potential
 public import Physlib.Particles.StandardModel.Representations
+public import Physlib.Particles.StandardModel.U1
 public import Physlib.Particles.SuperSymmetry.MSSMNu.AnomalyCancellation.B3
 public import Physlib.Particles.SuperSymmetry.MSSMNu.AnomalyCancellation.Basic
 public import Physlib.Particles.SuperSymmetry.MSSMNu.AnomalyCancellation.HyperCharge
